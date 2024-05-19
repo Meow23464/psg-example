@@ -1,0 +1,14 @@
+¡Bienvenidos al Python Study Group!
+Es un placer darles la bienvenida a este grupo dedicado al aprendizaje y la exploración del lenguaje de 
+programación Python.
+En este espacio, nos embarcaremos juntos en un emocionante viaje hacia el mundo de la programación, 
+donde Python será nuestra herramienta principal.
+Ya sea que estén aquí para comenzar desde cero o para perfeccionar sus habilidades existentes, 
+este grupo está diseñado para ofrecer un ambiente de apoyo y colaboración. 
+Aquí encontrarán compañeros entusiastas, recursos útiles y oportunidades para crecer tanto personal 
+como profesionalmente.
+A medida que nos sumergimos en este fascinante lenguaje de programación, 
+recordemos siempre mantener una mentalidad abierta, estar dispuestos a aprender de los demás y celebrar 
+nuestros logros, por pequeños que puedan parecer.
+¡Estoy emocionada por el viaje que tenemos por delante y por todo lo que vamos a lograr juntos!
+¡Bienvenidos al Python Study Group!
