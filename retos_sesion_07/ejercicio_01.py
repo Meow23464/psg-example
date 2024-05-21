@@ -1,4 +1,3 @@
-# Función para escribir una cadena con un poema sobre el Día de la Madre
 def escribir_poema_dia_madre():
     poema = """En este día tan especial,
 queremos a mamá homenajear.
