@@ -1,0 +1,5 @@
+x = input("Ingresa la coordenada x: ")
+y = input("Ingresa la coordenada y: ")
+ubicacion = input("Ingresa la ubicación: ")
+tupla_coordenadas = (x, y, ubicacion)
+print("Tupla de coordenadas y ubicación:", tupla_coordenadas)
