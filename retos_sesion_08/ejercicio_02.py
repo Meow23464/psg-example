@@ -1,2 +1,6 @@
-tupla = [1,2,3,4,5,6,7,8,9,10]
-print (tupla)
+mi_tupla = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+print("Primer elemento:", mi_tupla[0])
+print("Último elemento:", mi_tupla[-1])
+print("Slice del 4 al 7:", mi_tupla[3:7])
+print("Slice del 2 al 9 con pasos de 3:", mi_tupla[1:9:3])
+print("Slice del 10 al 1 con saltos de -2:", mi_tupla[::-2])
